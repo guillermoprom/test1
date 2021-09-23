@@ -35,3 +35,5 @@ C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3
 C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.pdb
 C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.genruntimeconfig.cache
 C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.csproj.CopyComplete
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\Create.cshtml.g.cs
+C:\Users\hp\Desktop\colegio\fundamentos de programacion\proyectos\ProyectoCiclo3.app\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\List.cshtml.g.cs

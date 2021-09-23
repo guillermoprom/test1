@@ -10,3 +10,4 @@ namespace ProyectoCiclo3.app.Dominio{
         public int encomienda {get; set;}
     }
 }
+//aaaaaaaaaaaaaaaaaa jajajaja XSSSSS//
